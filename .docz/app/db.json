@@ -1,0 +1,76 @@
+{
+  "config": {
+    "title": "Next Gen Documentation",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "D:\\Usuarios\\Alondra\\Documents\\UNAB\\CICLO V -2025 - UNAB\\sPG3-25\\Periodo 2\\SpringBoot\\README.md",
+        "link": "",
+        "hidden": false,
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "springboot",
+            "depth": 1,
+            "value": "SpringBoot"
+          }
+        ]
+      }
+    },
+    {
+      "key": "springboot-web/HELP.md",
+      "value": {
+        "id": "8e0af3984edc0bca64b441fb67aa0e77",
+        "filepath": "springboot-web/HELP.md",
+        "fullpath": "D:\\Usuarios\\Alondra\\Documents\\UNAB\\CICLO V -2025 - UNAB\\sPG3-25\\Periodo 2\\SpringBoot\\springboot-web\\HELP.md",
+        "link": "",
+        "hidden": false,
+        "slug": "springboot-web-help",
+        "route": "/springboot-web-help",
+        "name": "Help",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "read-me-first",
+            "depth": 1,
+            "value": "Read Me First"
+          },
+          {
+            "slug": "getting-started",
+            "depth": 1,
+            "value": "Getting Started"
+          },
+          {
+            "slug": "reference-documentation",
+            "depth": 3,
+            "value": "Reference Documentation"
+          },
+          {
+            "slug": "guides",
+            "depth": 3,
+            "value": "Guides"
+          },
+          {
+            "slug": "maven-parent-overrides",
+            "depth": 3,
+            "value": "Maven Parent overrides"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}
